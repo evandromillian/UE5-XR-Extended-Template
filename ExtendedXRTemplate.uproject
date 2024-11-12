@@ -11,7 +11,7 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"VisionOS"
 			]
 		},
 		{
